@@ -401,7 +401,7 @@ const ShareChatbot = ({ isSessionMemory }) => {
                             onSwitchChange(event.target.checked)
                         }}
                     />
-                    <Typography>Make Public</Typography>
+                    <Typography>Rendre publique</Typography>
                     <TooltipWithParser
                         style={{ marginLeft: 10 }}
                         title={'Making public will allow anyone to access the chatbot without username & password'}
