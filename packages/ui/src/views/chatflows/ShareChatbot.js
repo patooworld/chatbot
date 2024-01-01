@@ -408,7 +408,7 @@ const ShareChatbot = ({ isSessionMemory }) => {
                     />
                 </div>
             </Stack>
-            {textField(title, 'title', 'Title', 'string', 'Flowise Assistant')}
+            {textField(title, 'title', 'Title', 'string', 'Leads Farmer Assistant')}
             {textField(
                 titleAvatarSrc,
                 'titleAvatarSrc',
@@ -471,7 +471,7 @@ const ShareChatbot = ({ isSessionMemory }) => {
             )}
 
             <StyledButton style={{ marginBottom: 10, marginTop: 10 }} variant='contained' onClick={() => onSave()}>
-                Save Changes
+                Enregistrer
             </StyledButton>
             <Popover
                 open={openColorPopOver}
