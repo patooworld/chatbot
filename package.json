@@ -55,6 +55,7 @@
         "node": ">=18.15.0"
     },
     "dependencies": {
-        "faiss-node": "^0.5.1"
+        "faiss-node": "^0.5.1",
+        "turb": "^0.1.2"
     }
 }
