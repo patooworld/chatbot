@@ -56,6 +56,7 @@
     },
     "dependencies": {
         "faiss-node": "^0.5.1",
+        "react-scripts": "^5.0.1",
         "turb": "^0.1.2"
     }
 }
