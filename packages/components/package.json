@@ -78,7 +78,7 @@
         "playwright": "^1.35.0",
         "puppeteer": "^20.7.1",
         "pyodide": ">=0.21.0-alpha.2",
-        "react-code-blocks": "0.1.5",
+        "react-code-blocks": "0.1.6",
         "react-scripts": "^3.0.1",
         "redis": "^4.6.7",
         "replicate": "^0.12.3",
